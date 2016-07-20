@@ -12,8 +12,4 @@ color:
     - '#3E606F'
     - '#193441'
 name: mysticsoftheordinary
-navigation:
-  - id: 0a69a714-2495-4a02-8250-8d1886d044c8
-    url: 2016-07-20-what-every-entrepreneur-needs-to-know-about-leadership.html
-    name: About
-    type: content
+navigation: []
