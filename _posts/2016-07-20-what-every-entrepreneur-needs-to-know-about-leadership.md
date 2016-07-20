@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-20T21:47:52.356Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4598fcb8-3110-4ca3-88ce-b60b8d9e76a9.jpg
+datePublished: '2016-07-20T21:49:14.027Z'
 author: []
 via: {}
-dateModified: '2016-07-20T21:47:33.997Z'
+dateModified: '2016-07-20T21:49:13.182Z'
 title: ''
 publisher: {}
 description: What Every Entrepreneur Needs to Know About Leadership
-starred: false
 sourcePath: _posts/2016-07-20-what-every-entrepreneur-needs-to-know-about-leadership.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: what-every-entrepreneur-needs-to-know-about-leadership/index.html
 _type: MediaObject
 
 ---
