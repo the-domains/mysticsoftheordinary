@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-20T21:49:14.027Z'
+datePublished: '2016-07-20T21:50:31.171Z'
 author: []
 via: {}
-dateModified: '2016-07-20T21:49:13.182Z'
+dateModified: '2016-07-20T21:50:30.657Z'
 title: ''
 publisher: {}
 description: What Every Entrepreneur Needs to Know About Leadership
 sourcePath: _posts/2016-07-20-what-every-entrepreneur-needs-to-know-about-leadership.md
 hasPage: true
-starred: false
+starred: true
 url: what-every-entrepreneur-needs-to-know-about-leadership/index.html
 _type: MediaObject
 
