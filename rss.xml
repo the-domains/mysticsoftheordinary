@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mysticsoftheordinary]]></title>
+        <description><![CDATA[mysticsoftheordinary]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jul 2016 21:57:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Be a Fearless Presenter]]></title>
+            <description><![CDATA[<article><h1>How to Be a Fearless Presenter</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a46ce857cb42ea6f3f4e63009f2cf69e/croprotate.jpg?cropheight=1687&cropwidth=3000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb9d45867-b2b0-4c7c-9147-7648707d5d73.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9d45867-b2b0-4c7c-9147-7648707d5d73.jpg</link>
+            <guid isPermaLink="false">6d75392f-6879-4f59-89bb-b9d9c46f8e7a</guid>
+            <pubDate>Wed, 20 Jul 2016 21:57:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
